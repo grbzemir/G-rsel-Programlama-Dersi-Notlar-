@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W10\\source\\repos\\MaskedTextBoxOrnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E96A15E3-0ED8-44ED-A9F2-463F59B2D4F1}|MaskedTextBoxOrnek\\MaskedTextBoxOrnek.csproj|c:\\users\\w10\\source\\repos\\maskedtextboxornek\\maskedtextboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E96A15E3-0ED8-44ED-A9F2-463F59B2D4F1}|MaskedTextBoxOrnek\\MaskedTextBoxOrnek.csproj|solutionrelative:maskedtextboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96A15E3-0ED8-44ED-A9F2-463F59B2D4F1}|MaskedTextBoxOrnek\\MaskedTextBoxOrnek.csproj|c:\\users\\w10\\source\\repos\\maskedtextboxornek\\maskedtextboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96A15E3-0ED8-44ED-A9F2-463F59B2D4F1}|MaskedTextBoxOrnek\\MaskedTextBoxOrnek.csproj|solutionrelative:maskedtextboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\source\\repos\\MaskedTextBoxOrnek\\MaskedTextBoxOrnek\\Form1.cs",
+              "RelativeDocumentMoniker": "MaskedTextBoxOrnek\\Form1.cs",
+              "ToolTip": "C:\\Users\\W10\\source\\repos\\MaskedTextBoxOrnek\\MaskedTextBoxOrnek\\Form1.cs*",
+              "RelativeToolTip": "MaskedTextBoxOrnek\\Form1.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:03:20.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\W10\\source\\repos\\MaskedTextBoxOrnek\\MaskedTextBoxOrnek\\Form1.cs",
+              "RelativeDocumentMoniker": "MaskedTextBoxOrnek\\Form1.cs",
+              "ToolTip": "C:\\Users\\W10\\source\\repos\\MaskedTextBoxOrnek\\MaskedTextBoxOrnek\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "MaskedTextBoxOrnek\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:00:45.404Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

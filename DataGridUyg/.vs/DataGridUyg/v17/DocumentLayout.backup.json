@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egete\\source\\repos\\DataGridUyg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6443BEAD-39A6-4480-B82B-7DB0CBB09FA0}|DataGridUyg\\DataGridUyg.csproj|c:\\users\\egete\\source\\repos\\datagriduyg\\datagriduyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6443BEAD-39A6-4480-B82B-7DB0CBB09FA0}|DataGridUyg\\DataGridUyg.csproj|solutionrelative:datagriduyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6443BEAD-39A6-4480-B82B-7DB0CBB09FA0}|DataGridUyg\\DataGridUyg.csproj|c:\\users\\egete\\source\\repos\\datagriduyg\\datagriduyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6443BEAD-39A6-4480-B82B-7DB0CBB09FA0}|DataGridUyg\\DataGridUyg.csproj|solutionrelative:datagriduyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\egete\\source\\repos\\DataGridUyg\\DataGridUyg\\Form1.cs",
+              "RelativeDocumentMoniker": "DataGridUyg\\Form1.cs",
+              "ToolTip": "C:\\Users\\egete\\source\\repos\\DataGridUyg\\DataGridUyg\\Form1.cs*",
+              "RelativeToolTip": "DataGridUyg\\Form1.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:52:55.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\egete\\source\\repos\\DataGridUyg\\DataGridUyg\\Form1.cs",
+              "RelativeDocumentMoniker": "DataGridUyg\\Form1.cs",
+              "ToolTip": "C:\\Users\\egete\\source\\repos\\DataGridUyg\\DataGridUyg\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "DataGridUyg\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:48:32.465Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

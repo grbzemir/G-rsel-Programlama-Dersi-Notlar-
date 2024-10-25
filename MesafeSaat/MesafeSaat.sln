@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesafeSaat", "MesafeSaat\MesafeSaat.csproj", "{EDC74DC7-0171-43B0-AB85-3315C92DD5DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC74DC7-0171-43B0-AB85-3315C92DD5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC74DC7-0171-43B0-AB85-3315C92DD5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC74DC7-0171-43B0-AB85-3315C92DD5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC74DC7-0171-43B0-AB85-3315C92DD5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BCCC975-59D3-4CE6-92E4-8C1FAD077CAD}
+	EndGlobalSection
+EndGlobal

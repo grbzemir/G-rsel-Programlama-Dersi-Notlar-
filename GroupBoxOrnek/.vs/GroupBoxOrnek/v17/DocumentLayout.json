@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43D9EB-AB44-47D0-9586-362442B1E62D}|GroupBoxOrnek\\GroupBoxOrnek.csproj|C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\groupboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A43D9EB-AB44-47D0-9586-362442B1E62D}|GroupBoxOrnek\\GroupBoxOrnek.csproj|solutionrelative:groupboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43D9EB-AB44-47D0-9586-362442B1E62D}|GroupBoxOrnek\\GroupBoxOrnek.csproj|c:\\users\\emirc\\onedrive\\masa\u00FCst\u00FC\\g\u00F6rselprogramlama\\groupboxornek\\groupboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A43D9EB-AB44-47D0-9586-362442B1E62D}|GroupBoxOrnek\\GroupBoxOrnek.csproj|solutionrelative:groupboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\GroupBoxOrnek\\Form1.cs",
+              "RelativeDocumentMoniker": "GroupBoxOrnek\\Form1.cs",
+              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\GroupBoxOrnek\\Form1.cs",
+              "RelativeToolTip": "GroupBoxOrnek\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:10:21.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\GroupBoxOrnek\\Form1.cs",
+              "RelativeDocumentMoniker": "GroupBoxOrnek\\Form1.cs",
+              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\GroupBoxOrnek\\Form1.cs [Design]",
+              "RelativeToolTip": "GroupBoxOrnek\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:09:21.99Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
