@@ -29,7 +29,6 @@ namespace DiziOrnek
                 i++;
                 txt_veri.Clear();
                 txt_veri.Focus();
-
             }
             else
             {

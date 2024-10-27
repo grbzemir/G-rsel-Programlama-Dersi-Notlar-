@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\FaturaKontrol\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB7C897-240D-49A6-B0BE-632E2F7495C9}|FaturaKontrol\\FaturaKontrol.csproj|c:\\users\\emirc\\onedrive\\masa\u00FCst\u00FC\\g\u00F6rselprogramlama\\faturakontrol\\faturakontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB7C897-240D-49A6-B0BE-632E2F7495C9}|FaturaKontrol\\FaturaKontrol.csproj|solutionrelative:faturakontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB7C897-240D-49A6-B0BE-632E2F7495C9}|FaturaKontrol\\FaturaKontrol.csproj|C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\FaturaKontrol\\faturakontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DCB7C897-240D-49A6-B0BE-632E2F7495C9}|FaturaKontrol\\FaturaKontrol.csproj|solutionrelative:faturakontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB7C897-240D-49A6-B0BE-632E2F7495C9}|FaturaKontrol\\FaturaKontrol.csproj|C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\FaturaKontrol\\faturakontrol\\fatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB7C897-240D-49A6-B0BE-632E2F7495C9}|FaturaKontrol\\FaturaKontrol.csproj|solutionrelative:faturakontrol\\fatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,22 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\FaturaKontrol\\FaturaKontrol\\Form1.cs",
-              "RelativeDocumentMoniker": "FaturaKontrol\\Form1.cs",
-              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\FaturaKontrol\\FaturaKontrol\\Form1.cs",
-              "RelativeToolTip": "FaturaKontrol\\Form1.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwFYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:12:37.757Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -57,31 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Fatura.cs",
-              "DocumentMoniker": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\FaturaKontrol\\FaturaKontrol\\Fatura.cs",
-              "RelativeDocumentMoniker": "FaturaKontrol\\Fatura.cs",
-              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\FaturaKontrol\\FaturaKontrol\\Fatura.cs",
-              "RelativeToolTip": "FaturaKontrol\\Fatura.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:11:08.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\FaturaKontrol\\FaturaKontrol\\Form1.cs",
-              "RelativeDocumentMoniker": "FaturaKontrol\\Form1.cs",
-              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\FaturaKontrol\\FaturaKontrol\\Form1.cs [Design]",
-              "RelativeToolTip": "FaturaKontrol\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:04:51.546Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

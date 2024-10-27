@@ -19,7 +19,8 @@ namespace PlaceHolderOrnek
            
         }
 
-        private void txt_ad_Enter(object sender, EventArgs e)        {
+        private void txt_ad_Enter(object sender, EventArgs e)        
+        {
             if(txt_ad.Text == "Adınızı Giriniz")
             {
                 txt_ad.Text = "";

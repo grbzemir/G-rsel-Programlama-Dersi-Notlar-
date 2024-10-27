@@ -21,6 +21,7 @@ namespace DataGridUyg
 
         private void btn_ekle_Click(object sender, EventArgs e)
         {
+            //rows satır demek!
             tablo.Rows.Add(textBox1.Text, textBox2.Text, textBox3.Text);
             dataGridView1.DataSource = null;
             dataGridView1.DataSource = tablo;
@@ -35,6 +36,7 @@ namespace DataGridUyg
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //Columns sutun demek!
             tablo.Columns.Add("ID", typeof(int));
             tablo.Columns.Add("GIDER", typeof(string));
             tablo.Columns.Add("TUTAR", typeof(int));

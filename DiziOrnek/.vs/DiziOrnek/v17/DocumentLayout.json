@@ -18,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\DiziOrnek\\DiziOrnek\\Form1.cs",
+              "RelativeDocumentMoniker": "DiziOrnek\\Form1.cs",
+              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\DiziOrnek\\DiziOrnek\\Form1.cs",
+              "RelativeToolTip": "DiziOrnek\\Form1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIAwwB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:02:46.427Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -39,19 +53,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\DiziOrnek\\DiziOrnek\\Form1.cs",
-              "RelativeDocumentMoniker": "DiziOrnek\\Form1.cs",
-              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\DiziOrnek\\DiziOrnek\\Form1.cs",
-              "RelativeToolTip": "DiziOrnek\\Form1.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAACUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:02:46.427Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
