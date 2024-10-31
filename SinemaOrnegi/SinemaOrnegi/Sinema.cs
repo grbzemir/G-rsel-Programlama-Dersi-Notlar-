@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SinemaOrnegi
 {
-    internal class Sinema
+    public class Sinema
     {
         int toplamkoltuksayisi;
         int boskoltuksayisi;
@@ -16,13 +16,14 @@ namespace SinemaOrnegi
         const double TAM = 15.0;
         const double INDIRIMLI = 10.0;
 
+        
          //burası bir yapıcı metot yanı ctor constructor dır!
         public Sinema(string salon, int koltuksayi)
         {
             toplamkoltuksayisi = koltuksayi;
             salonNo = salon;
             boskoltuksayisi = toplamkoltuksayisi;
-            bakiye = 0; 
+            bakiye = 0;  
          }
         // Bilet Satış İşlemleri 
         public void BiletSat(bool indirimli)

@@ -13,6 +13,7 @@ namespace LoginRegister
 {
     public partial class Form1 : Form
     {
+        //Dictionary anahtar değer çift uyumları için kullanılmaktadır.
 
         private Dictionary<string, string> kullanicilar = new Dictionary<string, string>();
         public Form1()
