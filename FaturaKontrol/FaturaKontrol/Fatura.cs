@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FaturaKontrol
 {
-    internal class Fatura
+    public class Fatura
     {
         public int Id {  get; set; }
         public string FaturaNo { get; set; }

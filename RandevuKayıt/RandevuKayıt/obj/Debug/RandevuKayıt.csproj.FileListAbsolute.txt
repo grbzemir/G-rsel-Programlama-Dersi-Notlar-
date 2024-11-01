@@ -1,0 +1,10 @@
+C:\Users\egete\source\repos\RandevuKayıt\RandevuKayıt\bin\Debug\RandevuKayıt.exe.config
+C:\Users\egete\source\repos\RandevuKayıt\RandevuKayıt\bin\Debug\RandevuKayıt.exe
+C:\Users\egete\source\repos\RandevuKayıt\RandevuKayıt\bin\Debug\RandevuKayıt.pdb
+C:\Users\egete\source\repos\RandevuKayıt\RandevuKayıt\obj\Debug\RandevuKayıt.csproj.AssemblyReference.cache
+C:\Users\egete\source\repos\RandevuKayıt\RandevuKayıt\obj\Debug\RandevuKayıt.Form1.resources
+C:\Users\egete\source\repos\RandevuKayıt\RandevuKayıt\obj\Debug\RandevuKayıt.Properties.Resources.resources
+C:\Users\egete\source\repos\RandevuKayıt\RandevuKayıt\obj\Debug\RandevuKayıt.csproj.GenerateResource.cache
+C:\Users\egete\source\repos\RandevuKayıt\RandevuKayıt\obj\Debug\RandevuKayıt.csproj.CoreCompileInputs.cache
+C:\Users\egete\source\repos\RandevuKayıt\RandevuKayıt\obj\Debug\RandevuKayıt.exe
+C:\Users\egete\source\repos\RandevuKayıt\RandevuKayıt\obj\Debug\RandevuKayıt.pdb

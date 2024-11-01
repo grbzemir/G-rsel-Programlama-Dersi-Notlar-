@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\RandevuKay\u0131t\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{976A82B8-CEAC-4E49-AB9E-39CE3DF4BCD7}|RandevuKay\u0131t\\RandevuKay\u0131t.csproj|C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\RandevuKay\u0131t\\randevukay\u0131t\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976A82B8-CEAC-4E49-AB9E-39CE3DF4BCD7}|RandevuKay\u0131t\\RandevuKay\u0131t.csproj|solutionrelative:randevukay\u0131t\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976A82B8-CEAC-4E49-AB9E-39CE3DF4BCD7}|RandevuKay\u0131t\\RandevuKay\u0131t.csproj|c:\\users\\emirc\\onedrive\\masa\u00FCst\u00FC\\g\u00F6rselprogramlama\\randevukay\u0131t\\randevukay\u0131t\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976A82B8-CEAC-4E49-AB9E-39CE3DF4BCD7}|RandevuKay\u0131t\\RandevuKay\u0131t.csproj|solutionrelative:randevukay\u0131t\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976A82B8-CEAC-4E49-AB9E-39CE3DF4BCD7}|RandevuKay\u0131t\\RandevuKay\u0131t.csproj|C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\RandevuKay\u0131t\\randevukay\u0131t\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{976A82B8-CEAC-4E49-AB9E-39CE3DF4BCD7}|RandevuKay\u0131t\\RandevuKay\u0131t.csproj|solutionrelative:randevukay\u0131t\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Randevu.cs",
+              "DocumentMoniker": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\RandevuKay\u0131t\\RandevuKay\u0131t\\Randevu.cs",
+              "RelativeDocumentMoniker": "RandevuKay\u0131t\\Randevu.cs",
+              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\RandevuKay\u0131t\\RandevuKay\u0131t\\Randevu.cs",
+              "RelativeToolTip": "RandevuKay\u0131t\\Randevu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:46:13.458Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\RandevuKay\u0131t\\RandevuKay\u0131t\\Form1.cs",
+              "RelativeDocumentMoniker": "RandevuKay\u0131t\\Form1.cs",
+              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\RandevuKay\u0131t\\RandevuKay\u0131t\\Form1.cs",
+              "RelativeToolTip": "RandevuKay\u0131t\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:51:55.204Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\RandevuKay\u0131t\\RandevuKay\u0131t\\Form1.cs",
+              "RelativeDocumentMoniker": "RandevuKay\u0131t\\Form1.cs",
+              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\RandevuKay\u0131t\\RandevuKay\u0131t\\Form1.cs [Design]",
+              "RelativeToolTip": "RandevuKay\u0131t\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:37:43.864Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

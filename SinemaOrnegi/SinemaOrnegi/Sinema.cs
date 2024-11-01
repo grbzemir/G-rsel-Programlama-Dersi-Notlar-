@@ -24,7 +24,7 @@ namespace SinemaOrnegi
             salonNo = salon;
             boskoltuksayisi = toplamkoltuksayisi;
             bakiye = 0;  
-         }
+        }
         // Bilet Satış İşlemleri 
         public void BiletSat(bool indirimli)
         {

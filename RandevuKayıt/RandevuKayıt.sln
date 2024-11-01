@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandevuKayıt", "RandevuKayıt\RandevuKayıt.csproj", "{976A82B8-CEAC-4E49-AB9E-39CE3DF4BCD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{976A82B8-CEAC-4E49-AB9E-39CE3DF4BCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976A82B8-CEAC-4E49-AB9E-39CE3DF4BCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976A82B8-CEAC-4E49-AB9E-39CE3DF4BCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976A82B8-CEAC-4E49-AB9E-39CE3DF4BCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E372B9D-7FD8-4FE6-B6F1-2FEA909FB433}
+	EndGlobalSection
+EndGlobal

@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A43D9EB-AB44-47D0-9586-362442B1E62D}|GroupBoxOrnek\\GroupBoxOrnek.csproj|C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\groupboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A43D9EB-AB44-47D0-9586-362442B1E62D}|GroupBoxOrnek\\GroupBoxOrnek.csproj|c:\\users\\emirc\\onedrive\\masa\u00FCst\u00FC\\g\u00F6rselprogramlama\\groupboxornek\\groupboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A43D9EB-AB44-47D0-9586-362442B1E62D}|GroupBoxOrnek\\GroupBoxOrnek.csproj|solutionrelative:groupboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A43D9EB-AB44-47D0-9586-362442B1E62D}|GroupBoxOrnek\\GroupBoxOrnek.csproj|c:\\users\\emirc\\onedrive\\masa\u00FCst\u00FC\\g\u00F6rselprogramlama\\groupboxornek\\groupboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7A43D9EB-AB44-47D0-9586-362442B1E62D}|GroupBoxOrnek\\GroupBoxOrnek.csproj|C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\groupboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7A43D9EB-AB44-47D0-9586-362442B1E62D}|GroupBoxOrnek\\GroupBoxOrnek.csproj|solutionrelative:groupboxornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -46,9 +46,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\GroupBoxOrnek\\Form1.cs",
               "RelativeDocumentMoniker": "GroupBoxOrnek\\Form1.cs",
-              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\GroupBoxOrnek\\Form1.cs*",
-              "RelativeToolTip": "GroupBoxOrnek\\Form1.cs*",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAswBgAAAAAAAAA",
+              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\GroupBoxOrnek\\Form1.cs",
+              "RelativeToolTip": "GroupBoxOrnek\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBYAAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T07:10:21.191Z",
               "EditorCaption": ""
@@ -59,8 +59,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\GroupBoxOrnek\\Form1.cs",
               "RelativeDocumentMoniker": "GroupBoxOrnek\\Form1.cs",
-              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\GroupBoxOrnek\\Form1.cs [Design]*",
-              "RelativeToolTip": "GroupBoxOrnek\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\emirc\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rselProgramlama\\GroupBoxOrnek\\GroupBoxOrnek\\Form1.cs [Design]",
+              "RelativeToolTip": "GroupBoxOrnek\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T07:09:21.99Z",
               "EditorCaption": " [Design]"
